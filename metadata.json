@@ -1,0 +1,5 @@
+{
+  "name": "Smart Class - Teacher Assistant",
+  "description": "A smart tool for teachers to consolidate student data and generate personalized WhatsApp messages using Gemini AI.",
+  "requestFramePermissions": []
+}
